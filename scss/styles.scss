@@ -1,3 +1,5 @@
+@import "ubicacion";
+
 html{
     font-size: 62.5%;
 }
@@ -220,14 +222,6 @@ h3{
 }
 
 
-.ubicacion{
-    margin-left: 7rem;
-    margin-bottom: 7rem;
-}
-
-.img-mapa{
-    margin-top: 5rem;
-}
 
 
 
@@ -260,10 +254,3 @@ footer{
             ;
         }
     }
-
-    @media screen and (max-width: 1050px) {
-        .media.ubicacion{
-          width: 100%;
-          margin: 0%
-        }  
-      }
