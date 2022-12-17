@@ -227,11 +227,12 @@ footer {
     grid-template-areas: "header-ind" "nav-ind";
   }
 }
+
 @media screen and (max-width: 1050px) {
-  .media.ubicacion {
+  .media.ubicacion{
     width: 100%;
-    margin: 0%;
-  }
+    margin: 0%
+  }  
 }
 
 /*# sourceMappingURL=styles.css.map */

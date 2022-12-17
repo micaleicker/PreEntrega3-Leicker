@@ -260,3 +260,10 @@ footer{
             ;
         }
     }
+
+    @media screen and (max-width: 1050px) {
+        .media.ubicacion{
+          width: 100%;
+          margin: 0%
+        }  
+      }
